@@ -4,6 +4,8 @@ body {
     height: 99vh;
     width: 99vw;
     display: relative;
+    background-image: url("chatbotfundo3.jpg");
+    background-color: #cccccc;
 }
 
 #header {
